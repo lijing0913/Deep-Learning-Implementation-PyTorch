@@ -16,3 +16,5 @@
 ## Contents
 
 - Linear Regression
+
+- Linear Classification (Softmax Regression)
