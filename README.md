@@ -23,4 +23,4 @@
 
 - Underfit vs Overfit
 
-- Weight Decay
+- Weight Decay (L1/L2 Regularization)
