@@ -18,3 +18,5 @@
 - Linear Regression
 
 - Linear Classification (Softmax Regression)
+
+- Multilayer Perceptrons (MLP)
