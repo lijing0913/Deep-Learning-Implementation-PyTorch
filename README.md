@@ -24,3 +24,5 @@
 - Underfit vs Overfit
 
 - Weight Decay (L1/L2 Regularization)
+
+- Dropout
