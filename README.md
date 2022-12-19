@@ -22,3 +22,5 @@
 - Multilayer Perceptrons (MLP)
 
 - Underfit vs Overfit
+
+- Weight Decay
