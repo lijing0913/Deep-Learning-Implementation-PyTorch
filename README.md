@@ -20,3 +20,5 @@
 - Linear Classification (Softmax Regression)
 
 - Multilayer Perceptrons (MLP)
+
+- Underfit vs Overfit
