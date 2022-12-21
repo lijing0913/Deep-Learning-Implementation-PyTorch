@@ -26,3 +26,6 @@
 - Weight Decay (L1/L2 Regularization)
 
 - Dropout (Regularization)
+
+- Projects
+  - [Predicting House Prices](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Predicting%20House%20Prices%20Project.ipynb)
