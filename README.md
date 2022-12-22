@@ -23,11 +23,11 @@
 
 - Multilayer Perceptrons (MLP)
 
-- Underfit vs Overfit
+- [Underfit vs Overfit](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Underfit%20Overfit.ipynb)
 
-- Weight Decay (L1/L2 Regularization)
+- [Weight Decay (L1/L2 Regularization)](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Weight%20Decay.ipynb)
 
-- Dropout (Regularization)
+- [Dropout (Regularization)](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Dropout.ipynb)
 
 - Projects
   - [Predicting House Prices](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Predicting%20House%20Prices%20Project.ipynb)
