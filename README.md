@@ -51,3 +51,5 @@
 - [Multi Input and Multi Output Channels](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Multiple%20Input%20and%20Multi%20Output%20Channels.ipynb)
 
 - [Pooling](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Pooling.ipynb)
+
+### Modern Convolutional Neural Networks
