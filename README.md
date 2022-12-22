@@ -37,3 +37,5 @@
 - [Layers & Modules](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Layers%20Modules.ipynb)
 
 - [Parameter Management](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Parameter%20Management.ipynb)
+
+- [Custom Layers](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Custom%20Layers.ipynb)
