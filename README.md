@@ -45,3 +45,5 @@
 ### Convolutional Neural Network
 
 - [Convolutions for Images](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Convolutions%20for%20Images.ipynb)
+
+- [Padding & Stride](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Padding%20and%20Strides.ipynb)
