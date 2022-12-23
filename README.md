@@ -56,6 +56,6 @@
 
 - [LeNet](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/LeNet.ipynb)
 
-- [AlexNet]()
+- [AlexNet](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/AlexNet.ipynb)
 
 - [VGG](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/VGG.ipynb)
