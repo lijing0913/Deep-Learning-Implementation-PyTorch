@@ -55,3 +55,7 @@
 ### Modern Convolutional Neural Networks
 
 - [LeNet](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/LeNet.ipynb)
+
+- [AlexNet]()
+
+- [VGG](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/VGG.ipynb)
