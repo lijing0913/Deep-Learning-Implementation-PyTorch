@@ -63,3 +63,5 @@
 - [NiN (Network in Network)](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/NiN.ipynb)
 
 - [GoogLeNet](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/GoogLeNet.ipynb)
+
+- [Batch Normalization](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Batch%20Normalization.ipynb)
