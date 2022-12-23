@@ -58,4 +58,6 @@
 
 - [AlexNet](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/AlexNet.ipynb)
 
-- [VGG](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/VGG.ipynb)
+- [VGG (Network using Blocks)](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/VGG.ipynb)
+
+- [NiN (Network in Network)]()
