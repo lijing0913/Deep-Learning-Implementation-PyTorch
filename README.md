@@ -60,4 +60,4 @@
 
 - [VGG (Network using Blocks)](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/VGG.ipynb)
 
-- [NiN (Network in Network)]()
+- [NiN (Network in Network)](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/NiN.ipynb)
