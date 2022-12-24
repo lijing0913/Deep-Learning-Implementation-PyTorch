@@ -13,7 +13,9 @@
 
 `jupyter notebook`
 
-**NOTE** To run the notebook on Colab, run the following line first.
+**NOTE**:
+
+To run the notebook on Colab, run the following line first.
 `!pip install d2l==1.0.0-beta0`
 
 ## Contents
