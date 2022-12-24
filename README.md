@@ -67,3 +67,7 @@
 - [Batch Normalization](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Batch%20Normalization.ipynb)
 
 - [ResNet (Residual)](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/ResNet.ipynb)
+
+### Computer Vision
+
+- [Image Augmentation](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Image%20Augmentation.ipynb)
