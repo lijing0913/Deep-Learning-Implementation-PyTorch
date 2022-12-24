@@ -71,3 +71,5 @@
 ### Computer Vision
 
 - [Image Augmentation](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Image%20Augmentation.ipynb)
+
+- [Fine-tuning](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Fine%20Tuning.ipynb)
