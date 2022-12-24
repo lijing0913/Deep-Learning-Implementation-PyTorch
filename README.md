@@ -34,8 +34,7 @@ To run the notebook on Colab, run the following line first.
 
 - [Dropout (Regularization)](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Dropout.ipynb)
 
-- Projects
-  - [Predicting House Prices](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Predicting%20House%20Prices%20Project.ipynb)
+- **Project**: [Predicting House Prices](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Predicting%20House%20Prices%20Project.ipynb)
 
 ### Builders' Guide
 
@@ -78,3 +77,5 @@ To run the notebook on Colab, run the following line first.
 - [Image Augmentation](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Image%20Augmentation.ipynb)
 
 - [Fine-tuning](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Fine%20Tuning.ipynb)
+
+- **Project**: [CIFAR-10 Image Classification]()
