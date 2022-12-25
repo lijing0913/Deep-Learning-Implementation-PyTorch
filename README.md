@@ -78,4 +78,9 @@ To run the notebook on Colab, run the following line first.
 
 - [Fine-tuning](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Fine%20Tuning.ipynb)
 
-- **Project**: [CIFAR-10 Image Classification](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/CIFAR-10%20Image%20Classification%20Project.ipynb)
+- **Project**: 
+  - [CIFAR-10 Image Classification](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/CIFAR-10%20Image%20Classification%20Project.ipynb)
+  
+  - [Dog Breed Identification (ImageNet Dogs)]()
+
+ 
