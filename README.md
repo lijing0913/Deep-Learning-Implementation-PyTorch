@@ -1,4 +1,4 @@
-# Deep-Learning-Implementation-PyTorch
+# Deep Learning Implementation in PyTorch
 
 ## Environment Setup
 `conda create --name d2l python=3.9 -y`
