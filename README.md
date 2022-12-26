@@ -90,3 +90,7 @@ To run the notebook on Colab, run the following line first.
 - [Anchor Box](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Anchor%20Box.ipynb)
 
 - [Multiscale Object Detection](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Multiscale%20Object%20Detection.ipynb)
+
+- [Single Shot Multibox Detection (SSD)](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Single%20Shot%20Multibox%20Detection%20(SSD).ipynb)
+
+- [Semantic Segmentation and Dataset]()
