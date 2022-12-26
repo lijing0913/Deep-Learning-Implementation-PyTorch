@@ -96,3 +96,5 @@ To run the notebook on Colab, run the following line first.
 - [Semantic Segmentation and Dataset](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Semantic%20Segmentation%20and%20Dataset.ipynb)
 
 - [Transposed Convolution](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Transposed%20Convolution.ipynb)
+
+- [Fully Convolutional Network (FCN)](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Fully%20Convolutional%20Network%20(FCN).ipynb)
