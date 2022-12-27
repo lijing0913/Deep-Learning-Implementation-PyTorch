@@ -107,6 +107,8 @@ To run the notebook on Colab, run the following line first.
 
 - [Language Models](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Language%20Models.ipynb)
 
-- [Recurrent Neural Network Implementation from Scratch](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Recurrent%20Neural%20Network%20Implementation%20from%20Scratch.ipynb)
+- Recurrent Neural Network
 
-- [Concise Implementation of Recurrent Neural Networks](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Recurrent%20Neural%20Networks%20concise.ipynb)
+  - [Recurrent Neural Network Implementation from Scratch](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Recurrent%20Neural%20Network%20Implementation%20from%20Scratch.ipynb)
+
+  - [Concise Implementation of Recurrent Neural Networks](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Recurrent%20Neural%20Networks%20concise.ipynb)
