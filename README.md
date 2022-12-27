@@ -100,3 +100,5 @@ To run the notebook on Colab, run the following line first.
 - [Fully Convolutional Network (FCN)](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Fully%20Convolutional%20Network%20(FCN).ipynb)
 
 - [Neutral Style Transfer](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Neural%20Style%20Transfer.ipynb)
+
+- [Sequence](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Sequence.ipynb)
