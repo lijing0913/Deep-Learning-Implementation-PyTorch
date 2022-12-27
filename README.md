@@ -106,3 +106,7 @@ To run the notebook on Colab, run the following line first.
 - [Converting Raw Text into Sequence Data](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Converting%20Raw%20Text%20into%20Sequence%20Data.ipynb)
 
 - [Language Models](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Language%20Models.ipynb)
+
+- [Recurrent Neural Network Implementation from Scratch](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Recurrent%20Neural%20Network%20Implementation%20from%20Scratch.ipynb)
+
+- [Concise Implementation of Recurrent Neural Networks](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Recurrent%20Neural%20Networks%20concise.ipynb)
