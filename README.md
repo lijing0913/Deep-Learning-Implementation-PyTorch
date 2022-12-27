@@ -24,9 +24,21 @@ To run the notebook on Colab, run the following line first.
 
 - Linear Regression
 
+  - [Linear Regression Implementation from Scratch](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Linear%20Regression%20from%20Scratch.ipynb)
+  
+  - [Concise Implementation of Linear Regression](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Linear%20Regression%20concise.ipynb)
+
 - Linear Classification (Softmax Regression)
 
+  - [Linear Classification Implementation from Scratch](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Linear%20Classification%20from%20Scratch.ipynb)
+  
+  - [Concise Implementation of Linear Classification](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Linear%20Classification%20concise.ipynb)
+
 - Multilayer Perceptrons (MLP)
+
+  - [Multilayer Perceptrons from Scratch](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Multilayer%20Perceptrons%20from%20Scratch.ipynb)
+  
+  - [Concise Implementation of Multilayer Perceptrons](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Multilayer%20Perceptrons%20concise.ipynb)
 
 - [Underfit vs Overfit](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Underfit%20Overfit.ipynb)
 
