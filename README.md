@@ -102,3 +102,5 @@ To run the notebook on Colab, run the following line first.
 - [Neutral Style Transfer](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Neural%20Style%20Transfer.ipynb)
 
 - [Sequence](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Sequence.ipynb)
+
+- [Converting Raw Text into Sequence Data](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Converting%20Raw%20Text%20into%20Sequence%20Data.ipynb)
