@@ -119,14 +119,14 @@ To run the notebook on Colab, run the following line first.
 
 - [Language Models](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Language%20Models.ipynb)
 
-- Recurrent Neural Network
+### Recurrent Neural Network
 
-  - [Recurrent Neural Network Implementation from Scratch](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Recurrent%20Neural%20Network%20Implementation%20from%20Scratch.ipynb)
+- [Recurrent Neural Network Implementation from Scratch](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Recurrent%20Neural%20Network%20Implementation%20from%20Scratch.ipynb)
 
-  - [Concise Implementation of Recurrent Neural Networks](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Recurrent%20Neural%20Networks%20concise.ipynb)
+- [Concise Implementation of Recurrent Neural Networks](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Recurrent%20Neural%20Networks%20concise.ipynb)
 
-- Model Recurrent Neural Network
+### Model Recurrent Neural Network
 
-  - [Gated Recurrent Units (GRU)](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Gated%20Reccurent%20Unites%20(GRU).ipynb)
+- [Gated Recurrent Units (GRU)](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Gated%20Reccurent%20Unites%20(GRU).ipynb)
 
-  - [Long Short-Term Memory (LSTM)](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Long%20Short-Term%20Memory%20(LSTM).ipynb)
+- [Long Short-Term Memory (LSTM)](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Long%20Short-Term%20Memory%20(LSTM).ipynb)
