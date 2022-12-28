@@ -125,4 +125,8 @@ To run the notebook on Colab, run the following line first.
 
   - [Concise Implementation of Recurrent Neural Networks](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Recurrent%20Neural%20Networks%20concise.ipynb)
 
-- [Gated Recurrent Units (GRU)](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Gated%20Reccurent%20Unites%20(GRU).ipynb)
+- Model Recurrent Neural Network
+
+  - [Gated Recurrent Units (GRU)](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Gated%20Reccurent%20Unites%20(GRU).ipynb)
+
+  - [Long Short-Term Memory (LSTM)](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Long%20Short-Term%20Memory%20(LSTM).ipynb)
