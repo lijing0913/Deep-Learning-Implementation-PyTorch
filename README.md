@@ -133,4 +133,4 @@ To run the notebook on Colab, run the following line first.
 
 - [Deep RNN](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Deep%20RNN.ipynb)
 
-- [Bidirectional RNN]()
+- [Bidirectional RNN](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Bidirectional%20RNN.ipynb)
