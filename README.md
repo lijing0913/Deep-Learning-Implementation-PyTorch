@@ -138,3 +138,5 @@ To run the notebook on Colab, run the following line first.
 - [Machine Translation and Dataset](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Machine%20Translation%20and%20Dataset.ipynb)
 
 - [Encoder-Decoder](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Encoder-Decoder.ipynb)
+
+- [Encoder-Decoder Seq2Seq for Machine Translation](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Seq2Seq.ipynb)
