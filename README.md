@@ -154,3 +154,5 @@ To run the notebook on Colab, run the following line first.
 - [Multi-Head Attention](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Multihead%20Attention.ipynb)
 
 - [Transformer](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Transformer.ipynb)
+
+- [Bidirectional Encoder Representations from Transformers (BERT)](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/BERT.ipynb)
