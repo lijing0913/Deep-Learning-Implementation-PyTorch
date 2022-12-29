@@ -158,3 +158,5 @@ To run the notebook on Colab, run the following line first.
 - [Bidirectional Encoder Representations from Transformers (BERT)](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/BERT.ipynb)
 
 - [BERT Dataset](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Bert%20Dataset.ipynb)
+
+- [BERT Pretaining](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Bert%20Pretraining.ipynb)
