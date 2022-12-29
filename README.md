@@ -143,4 +143,4 @@ To run the notebook on Colab, run the following line first.
 
 ### Attention Mechanisms and Transformers
 
-- [Nadaraya-Waston Kernel Regression]()
+- [Nadaraya-Waston Kernel Regression](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Nadaraya-Waston%20Kernel%20Regression.ipynb)
