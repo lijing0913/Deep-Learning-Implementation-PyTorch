@@ -162,3 +162,5 @@ To run the notebook on Colab, run the following line first.
 - [BERT Dataset](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Bert%20Dataset.ipynb)
 
 - [BERT Pretaining](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Bert%20Pretraining.ipynb)
+
+- [Natural Language Inference and the Dataset](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Natural%20Language%20Inference%20and%20Dataset.ipynb)
