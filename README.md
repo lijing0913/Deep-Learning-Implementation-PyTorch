@@ -146,3 +146,5 @@ To run the notebook on Colab, run the following line first.
 - [Nadaraya-Waston Kernel Regression](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Nadaraya-Waston%20Kernel%20Regression.ipynb)
 
 - [Attention Scoring Functions](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Attention%20Scoring%20Functions.ipynb)
+
+- [The Bahdanau Attention Mechanism](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Bahdanau%20Attention.ipynb)
