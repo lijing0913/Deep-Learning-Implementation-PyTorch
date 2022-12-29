@@ -140,3 +140,7 @@ To run the notebook on Colab, run the following line first.
 - [Encoder-Decoder](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Encoder-Decoder.ipynb)
 
 - [Encoder-Decoder Seq2Seq for Machine Translation](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Seq2Seq.ipynb)
+
+### Attention Mechanisms and Transformers
+
+- [Nadaraya-Waston Kernel Regression]()
