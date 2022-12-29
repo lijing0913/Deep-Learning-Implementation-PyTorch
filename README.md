@@ -148,3 +148,5 @@ To run the notebook on Colab, run the following line first.
 - [Attention Scoring Functions](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Attention%20Scoring%20Functions.ipynb)
 
 - [The Bahdanau Attention Mechanism](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Bahdanau%20Attention.ipynb)
+
+- [Self-Attention and Positional Encoding](https://github.com/lijing0913/Deep-Learning-Implementation-PyTorch/blob/main/Self%20Attention%20and%20Positional%20Encoding.ipynb)
